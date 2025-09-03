@@ -63,7 +63,7 @@ Each topic is written in both **Korean** and **English**, so I can study and rev
 ---
 
 ### 7. CPU Performance Metrics & Instruction Set Architecture (RISC vs CISC)
-- 📄 Korean file (coming soon) | 🌐 English file (coming soon)  
+- 📄 [Korean](./1.1-7_CPU_성능&ISA.md) | 🌐 [English](./1.1-7_CPU_performance&ISA.md)  
 - **Performance Metrics**:  
   - CPU Time = Instruction Count × CPI × Clock Cycle Time  
   - IPC (Instructions Per Cycle), MIPS, etc.  
