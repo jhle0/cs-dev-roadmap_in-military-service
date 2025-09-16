@@ -75,7 +75,7 @@ Each topic is written in both **Korean** and **English**, so I can study and rev
 ---
 
 ### 8. Memory Hierarchy (Cache, Locality)
-- 📄 Korean file (coming soon) | 🌐 English file (coming soon)  
+- 📄 [Korean](./1.1-8_메모리_계층.md) | 🌐 [English](./1.1-8_Memory_Hierarchy.md)  
 - **Hierarchy**: Register → Cache → RAM → Secondary Storage.  
 - **Locality**: Temporal and spatial locality.  
 - **Focus**: Cache operation and performance optimization.  
@@ -83,7 +83,7 @@ Each topic is written in both **Korean** and **English**, so I can study and rev
 ---
 
 ### 9. Interrupts & DMA
-- 📄 Korean file (coming soon) | 🌐 English file (coming soon)  
+- 📄 [Korean](./1.1-9_인터럽트&DMA.md) | 🌐 [English](./1.1-9_Interrupts&DMA.md)   
 - **Interrupts**: CPU suspends current task to handle external events.  
 - **DMA**: I/O device accesses memory directly to reduce CPU overhead.  
 - **Focus**: Interrupt handling flow, benefits of DMA.  
