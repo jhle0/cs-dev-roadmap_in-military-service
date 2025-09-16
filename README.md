@@ -28,7 +28,7 @@ Each topic will be studied in **3 steps**:
 
 ## 🗂 Repository Structure
 📦 cs-dev-roadmap  
-┣ 📂 1_computer_architecture  
+┣ 📂 [1_computer_architecture](./1.1_computer_architecture)  
 ┣ 📂 2_network  
 ┣ 📂 3_operating_system  
 ┣ 📂 4_algorithms  
