@@ -83,34 +83,6 @@ Each topic will be studied in **3 steps**:
 
 ---
 
-## 📚 Study Resources
-
-### 📖 Books
-- **Computer Networking: A Top-Down Approach** - James F. Kurose  
-
-
-
-### 💻 Online Courses
--
-
-### 📄 Documentation & Guides
--
-
-### 📝 Practice & Problem-Solving
-- [Baekjoon Online Judge](https://www.acmicpc.net/)  
-- [LeetCode](https://leetcode.com/)  
-- [Kaggle](https://www.kaggle.com/)  
-
----
-
-## 🛠 Tech Stack & Tools
-- **Languages**: Python, C++, SQL
-- **Tools**: Git, Docker, VSCode, Jupyter
-- **Cloud**: AWS, GCP
-- **AI APIs**: OpenAI, Claude, Gemini
-
----
-
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
 
