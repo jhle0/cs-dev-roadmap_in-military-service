@@ -8,7 +8,7 @@ Each topic is written in both **Korean** and **English**, so I can study and rev
 ## 📑 Table of Contents
 
 ### 1. Computer System Organization (CPU, Memory, I/O, Bus)
-- 📄 [Korean](./1.1-1_컴퓨터_시스템_구성.md) | 🌐 [English](./1.1-1_System_Organization.md)  
+- 📄 [Korean](./1.1-1_컴퓨터_시스템_구성.md) | 🌐 [English](./1.1-1_system_organization.mdd)  
 - **CPU**: Computation and control (Registers, ALU, Control Unit).  
 - **Memory**: Stores programs and data (RAM, SSD/HDD).  
 - **I/O Devices**: Interfaces with the outside world (Keyboard, NIC, etc.).  
@@ -63,7 +63,7 @@ Each topic is written in both **Korean** and **English**, so I can study and rev
 ---
 
 ### 7. CPU Performance Metrics & ISA (RISC vs CISC)
-- 📄 [Korean](./1.1-7_CPU_성능&ISA.md) | 🌐 [English](./1.1-7_CPU_Performance&ISA.md)  
+- 📄 [Korean](./1.1-7_CPU_성능&ISA.md) | 🌐 [English](./1.1-7_CPU_performance&ISA.md)  
 - **Performance Metrics**:  
   - CPU Time = Instruction Count × CPI × Clock Cycle Time  
   - IPC, MIPS, etc.  
