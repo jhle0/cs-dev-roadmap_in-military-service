@@ -97,7 +97,7 @@ Each topic is written in both **Korean** and **English**, so I can study and rev
 ---
 
 ### 10. Parallel Processing & Performance Laws
-- 📄 [Korean](./1.1-10_병렬처리.md) | 🌐 [English](./1.1-10_Parallel_Processing.md)  
+- 📄 [Korean](./1.1-10_병렬_처리.md) | 🌐 [English](./1.1-10_Parallel_Processing.md)  
 - **SIMD**: Single instruction, multiple data.  
 - **MIMD**: Multiple instructions, multiple data.  
 - **GPU**: Specialized for massive parallel workloads.  
