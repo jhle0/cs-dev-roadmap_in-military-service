@@ -43,6 +43,7 @@ I will be following a structured roadmap, focusing on:
   - 📘 **Books / References**
     - *Computer Networking: A Top-Down Approach (James Kurose)*  
   - 🎥 **Courses**
+    - [http://www.kocw.net/home/search/kemView.do?kemId=1312397] - 한양대 이석복 교수 네트워크
 
 - **Operating Systems**  
   - Topics: process/thread, CPU scheduling, synchronization, deadlock, memory management, file systems  
