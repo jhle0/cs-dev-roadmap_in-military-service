@@ -16,7 +16,7 @@ I will be following a structured roadmap, focusing on:
 ## 🗂 Repository Structure
 📦 cs-dev-roadmap  
 ┣ 📂 [1_computer_architecture](./1.1_computer_architecture)  
-┣ 📂 2_network  
+┣ 📂 [2_network](./2.1_Network)  
 ┣ 📂 3_operating_system  
 ┣ 📂 4_Compiler/Language Processing Basics  
 ┣ 📂 5_database   
