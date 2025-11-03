@@ -1,36 +1,47 @@
-# 📚 CS Dev Roadmap During Military Service
-
-A complete roadmap for building solid foundations in **Computer Science**, **software development** — all documented during my military service.  
+# 📚 CSE_Fundamentals
+A concise hub that **organizes the foundations of Computer Science & Engineering (CSE)** — core theory, practice, and references in one place.
 
 ---
 
 ## 📌 About This Repository
-This repository is my **personal knowledge base** for studying core development skills and Computer Science fundamentals.  
-I will be following a structured roadmap, focusing on:
-- **Theory**: Understanding key concepts
-- **Practice**: Implementing and experimenting
-- **Application**: Real-world examples & projects
+This repository **collects and structures CSE fundamentals** for steady study and quick review.
+
+**Focus areas**
+- **Theory:** Core concepts and principles  
+- **Practice:** Implementations and experiments  
+- **Application:** Real-world examples & projects  
 
 ---
 
 ## 🗂 Repository Structure
-📦 cs-dev-roadmap  
+📦 CSE-Fundamentals   
+┣ 📂 0_math   
 ┣ 📂 [1_computer_architecture](./1.1_computer_architecture)  
 ┣ 📂 [2_network](./2.1_Network)  
 ┣ 📂 3_operating_system  
-┣ 📂 4_Compiler/Language Processing Basics  
-┣ 📂 5_database   
-┣ 📂 6_git  
-┣ 📂 7_testing  
-┣ 📂 7_security   
-┣ 📂 8_software_design  
+┣ 📂 4_data_structures_and_algorithms   
+┣ 📂 5_PLT  
+┣ 📂 6_database      
+┣ 📂 7_git   
+┣ 📂 8_testing   
+┣ 📂 9_security  
+┣ 📂 10_software_design    
+┣ 📂 11_docker   
+┣ 📂 12_ci_cd   
+┣ 📂 13_linux_unix_shell             
+┣ 📂 14_concurrency_parallelism      
+┣ 📂 15_distributed_systems           
 ┣ 📜 README.md  
 ┣ 📜 README_KR.md  
 
 ---
 ## 🧩 Roadmap Overview
 
-### 1. Computer Science Fundamentals
+- **Mathematics (Calculus · Linear Algebra · Probability & Statistics · Discrete Math)**  
+  - Topics: multivariable calculus/gradient, vector space & spectral theorem, CLT & Bayesian basics, graphs/combinatorics/number theory  
+  - 📘 **Books / References**: —  
+  - 🎥 **Courses**: —
+
 - **Computer Architecture**  
   - Topics: CPU operation, pipelining, memory hierarchy, interrupts, DMA, cache, bus, instruction cycle  
   - 📘 **Books / References**
@@ -51,15 +62,11 @@ I will be following a structured roadmap, focusing on:
     - *혼자 공부하는 컴퓨터 구조+운영체제* (강민철 저)  
   - 🎥 **Courses**
 
-- **Compiler/Language Processing Basics**  
-  - Topics: Lexical Analysis, Parsing, Semantic Analysis, Interpreter vs Compiler  
-  - 📘 **Books / References**
-   
-  - 🎥 **Courses**
-   
----
+- **PLT (Programming Language Theory: Automata/Compiler)**  
+  - Topics: formal languages & automata, lexical analysis, parsing, semantic analysis, type systems, interpreter vs compiler  
+  - 📘 **Books / References**: —  
+  - 🎥 **Courses**: —  
 
-### 2. Practical Development Skills
 - **Database**  
   - Topics: SQL, ACID, indexing, ORM, ERD, NoSQL basics  
   - 📘 **Books / References**
@@ -90,8 +97,32 @@ I will be following a structured roadmap, focusing on:
   - 📘 **Books / References**
    
   - 🎥 **Courses**
+ 
+- **Docker**  
+  - Topics: container vs VM, images & layers, Dockerfile best practices, multi-stage builds/buildx, networking (bridge/host/overlay), volumes & bind mounts, Compose, registries & tags, healthcheck & entrypoint/cmd, resource limits (CPU/mem/PIDs), security (rootless, capabilities), logging/metrics
+  - 📘 **Books / References**
+   
+  - 🎥 **Courses**
+ 
+- **CI/CD**  
+  - Topics: pipeline design, build/test automation, deployment strategies, GitHub Actions/Jenkins  
+  - 📘 **Books / References**: —  
+  - 🎥 **Courses**: —  
 
-
+- **Linux/Unix & Shell (CLI · Tools · Ops Basics)**  
+  - Topics: filesystem/permissions/ACLs, processes & signals, pipes/redirection, text tools (grep/sed/awk), find/xargs, networking (ssh/scp, curl/wget), archiving (tar/zip), monitoring (ps/top/htop, lsof, iostat/vmstat), package managers (apt/yum/brew), cron/systemd basics
+  - 📘 **Books / References**: —  
+  - 🎥 **Courses**: —
+ 
+- **Concurrency & Parallelism (Threads · Locks · Async)**  
+  - Topics: process vs thread, context switch, synchronization (mutex/sem/rwlock/condvar), deadlock conditions & avoidance, memory model & happens-before, atomics & lock-free basics, thread pools & work-stealing, async I/O & event loop, futures/promises, task/data-parallel patterns, Amdahl’s & Gustafson’s laws  
+  - 📘 **Books / References**: —  
+  - 🎥 **Courses**: —
+ 
+- **Distributed Systems (CAP · Consistency · Messaging)**  
+  - Topics: CAP & consistency models (strong/weak/eventual), replication (leader/follower), consensus overview (Paxos/Raft), clocks (logical/vector), idempotency/retries/backoff, idempotent key design, messaging (queue/topic; at-most/at-least/exactly-once semantics), service discovery, health checks & circuit breaker, saga/outbox patterns, partitioning/sharding, caching & invalidation, observability (logs/metrics/tracing)
+  - 📘 **Books / References**: —  
+  - 🎥 **Courses**: —  
 ---
 
 ## 📄 License
@@ -102,7 +133,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🚀 Goal
 By the end of my military service, I aim to:
-- Master the CS fundamentals
-- Build strong development best practices
-- Efficiently integrate AI tools into services
-- Be fully ready for real-world development challenges
+- Build a firm grasp of CS fundamentals.
+- Study so you can explain them anytime.
+- Be ready for real-world development challenges.
