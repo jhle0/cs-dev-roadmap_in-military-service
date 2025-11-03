@@ -132,7 +132,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 🚀 Goal
-By the end of my military service, I aim to:
+My ongoing goals for this repository are:
 - Build a firm grasp of CS fundamentals.
 - Study so you can explain them anytime.
 - Be ready for real-world development challenges.
